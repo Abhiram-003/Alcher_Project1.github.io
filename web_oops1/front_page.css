@@ -1,0 +1,157 @@
+.background_color{
+  background-color: #E6E1E1;
+}
+.one{
+  background-image: url('bg.png');
+  /* display: inline-block; */
+  height: 603px;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-bottom: 0px;
+}
+
+input{
+  background: transparent;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-bottom: 3px solid white;
+  width: 500px;
+  color:white;
+}
+
+.icon{
+  border-radius:50% ;
+}
+.two{
+  display: block;
+  padding-top: 30px;
+  padding-left: 73px;
+}
+.col-sm-6{
+  display: block;
+  padding-top: 35px;
+}
+.three{
+  display: block;
+  padding-top: 30px;
+  padding-left: 125px;
+}
+
+#poppins{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 4.5vw;
+    -webkit-text-stroke: 0.05em whitesmoke;
+    -webkit-text-fill-color: transparent;
+    padding-top: 110px;
+    padding-left: 30px;
+}
+.btn-success{
+ padding-left: 15px;
+  cursor: pointer;
+  width: 280px;
+  height: 65px;
+  border-radius: 6px;
+  background: #FF00AA;
+  border: 0;
+}
+.button{
+  display: block;
+  padding-top: 29px;
+  padding-left: 500px;
+}
+#btn{
+
+  font-size: 21px;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.btn-success:hover{
+    background: #FF00AA;
+}
+.btn-success:not(:hover) .hide {
+    display: none;
+}
+.hits{
+  padding-top: 110px;
+  padding-left: 70px;
+}
+.hits2{
+  padding-top: 70px;
+  padding-left: 70px;
+}
+div.gallery {
+  border: 0px solid #ccc;
+  padding-left: 10px;
+  width: 290px;
+  display: inline-block;
+  /*justify-content: space-evenly; */
+/* display: flex; */
+ flex-direction: row; flex-wrap: wrap;
+justify-content: space-between;
+}
+
+div.gallery:hover {
+  border: 0px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+   border-radius: 5px;
+
+}
+
+div.desc {
+  padding: 0px;
+  text-align: left;
+  padding-top: 10px;
+  font-size: 25px;
+  font-weight: 700px;
+  color: black;
+}
+.responsive{
+  padding-left: 59px;
+  padding-top: 15px;
+}
+.responsive2{
+  padding-left: 59px;
+  padding-top: 15px;
+  padding-bottom: 90px;
+}
+.fa{
+  color: white;
+  display: block;
+  flex: wrap;
+  justify-content: space-between;
+  padding-left: 45px;
+  padding-right: 50px;
+  padding-top: 70px;
+}
+.material-icons{
+  display: block;
+}
+.copyright{
+  color: white;
+  font-size: 25px;
+
+}
+h4{
+  font-weight: 700;
+  color: black;
+}
+.row1{
+  color:white;
+  font-size: 25px;
+  padding-top: 90px;
+  font-weight: 600;
+}
+.footer {
+  background-color: #3B3737;
+  padding: 20px;
+  text-align: center;
+
+}
