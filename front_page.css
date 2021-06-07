@@ -79,7 +79,8 @@ input{
     display: none;
 }
 .hits{
-  padding-top: 150px;
+
+    padding-top: 50px;
   padding-left: 140px;
 }
 .hits2{
@@ -118,12 +119,12 @@ div.desc {
 }
 .responsive{
    /* padding-left: 80px; */
-  padding-top: 100px;
+  padding-top: 10px;
     align-items: center;
 }
 .responsive2{
  /* padding-left: 80px; */
-  /*  padding-top: 15px; */
+    padding-top: 10px; 
   align-items: center;
   padding-bottom: 90px;
 }
