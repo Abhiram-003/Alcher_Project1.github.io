@@ -1,5 +1,8 @@
 .background_color{
   background-color: #E6E1E1;
+  width: 100vw;
+  background-size: cover;
+
 }
 .one{
   background-image: url('bg.png');
@@ -60,7 +63,7 @@ input{
 .button{
   display: block;
   padding-top: 40px;
-  padding-left: 500px;
+  padding-left: 550px;
 }
 #btn{
 
@@ -77,16 +80,16 @@ input{
 }
 .hits{
   padding-top: 150px;
-  padding-left: 90px;
+  padding-left: 140px;
 }
 .hits2{
   padding-top: 70px;
-  padding-left: 90px;
+  padding-left: 140px;
 }
 div.gallery {
   border: 0px solid #ccc;
   padding-left: 10px;
-  width: 290px;
+  width: 270px;
   display: inline-block;
   /*justify-content: space-evenly; */
 /* display: flex; */
@@ -114,12 +117,14 @@ div.desc {
   color: black;
 }
 .responsive{
-  padding-left: 80px;
+   /* padding-left: 80px; */
   padding-top: 100px;
+    align-items: center;
 }
 .responsive2{
-  padding-left: 80px;
-  padding-top: 15px;
+ /* padding-left: 80px; */
+  /*  padding-top: 15px; */
+  align-items: center;
   padding-bottom: 90px;
 }
 .fa{
@@ -153,7 +158,8 @@ h4{
   background-color: #3B3737;
   padding: 20px;
   text-align: center;
-
+  width: 100vw;
+  background-size: cover;
 }
 .lastline{
 font-family: 'Gugi', cursive;
