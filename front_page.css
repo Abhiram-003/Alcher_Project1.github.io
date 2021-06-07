@@ -54,8 +54,8 @@ input{
 .btn-success{
  padding-left: 15px;
   cursor: pointer;
-  width: 280px;
-  height: 65px;
+  width: 300px;
+  height: 69px;
   border-radius: 6px;
   background: #FF00AA;
   border: 0;
@@ -81,11 +81,11 @@ input{
 .hits{
 
     padding-top: 50px;
-  padding-left: 140px;
+  /* padding-left: 140px; */
 }
 .hits2{
   padding-top: 70px;
-  padding-left: 140px;
+  /* padding-left: 140px; */
 }
 div.gallery {
   border: 0px solid #ccc;
@@ -124,7 +124,7 @@ div.desc {
 }
 .responsive2{
  /* padding-left: 80px; */
-    padding-top: 10px; 
+    padding-top: 10px;
   align-items: center;
   padding-bottom: 90px;
 }
