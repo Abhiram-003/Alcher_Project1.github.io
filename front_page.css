@@ -6,7 +6,7 @@
   /* display: inline-block; */
   height: 603px;
   width: 100vw;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 0px;
 }
@@ -76,7 +76,7 @@ input{
     display: none;
 }
 .hits{
-  padding-top: 110px;
+  padding-top: 120px;
   padding-left: 70px;
 }
 .hits2{
@@ -85,7 +85,7 @@ input{
 }
 div.gallery {
   border: 0px solid #ccc;
-  padding-left: 10px;
+  padding-left: 15px;
   width: 290px;
   display: inline-block;
   /*justify-content: space-evenly; */
