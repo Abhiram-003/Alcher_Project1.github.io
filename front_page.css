@@ -45,7 +45,7 @@ input{
     font-size: 4.5vw;
     -webkit-text-stroke: 0.05em whitesmoke;
     -webkit-text-fill-color: transparent;
-    padding-top: 110px;
+    padding-top: 120px;
     padding-left: 30px;
 }
 .btn-success{
@@ -59,7 +59,7 @@ input{
 }
 .button{
   display: block;
-  padding-top: 29px;
+  padding-top: 32px;
   padding-left: 500px;
 }
 #btn{
