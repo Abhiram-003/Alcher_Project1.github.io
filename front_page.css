@@ -84,12 +84,12 @@ input{
 }
 .hits2{
   padding-top: 70px;
-  padding-left: 200px;
+  padding-left: 140px;
 }
 div.gallery {
   border: 0px solid #ccc;
   padding-left: 10px;
-  width: 250px;
+  width: 260px;
   display: inline-block;
   /*justify-content: space-evenly; */
 /* display: flex; */
