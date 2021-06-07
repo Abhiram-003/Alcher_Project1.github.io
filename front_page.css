@@ -5,7 +5,7 @@
   background-image: url('bg.png');
   /* display: inline-block; */
   height: 603px;
-  width: 100%;
+  width: 100vw;
   background-size: contain;
   background-repeat: no-repeat;
   padding-bottom: 0px;
