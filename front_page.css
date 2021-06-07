@@ -6,7 +6,7 @@
   /* display: inline-block; */
   height: 603px;
   width: 100vw;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 0px;
 }
@@ -45,8 +45,8 @@ input{
     font-size: 4.5vw;
     -webkit-text-stroke: 0.05em whitesmoke;
     -webkit-text-fill-color: transparent;
-    padding-top: 120px;
-    padding-left: 30px;
+    padding-top: 140px;
+    padding-left: 70px;
 }
 .btn-success{
  padding-left: 15px;
@@ -59,7 +59,7 @@ input{
 }
 .button{
   display: block;
-  padding-top: 32px;
+  padding-top: 40px;
   padding-left: 500px;
 }
 #btn{
@@ -76,12 +76,12 @@ input{
     display: none;
 }
 .hits{
-  padding-top: 110px;
-  padding-left: 70px;
+  padding-top: 150px;
+  padding-left: 90px;
 }
 .hits2{
   padding-top: 70px;
-  padding-left: 70px;
+  padding-left: 90px;
 }
 div.gallery {
   border: 0px solid #ccc;
@@ -114,11 +114,11 @@ div.desc {
   color: black;
 }
 .responsive{
-  padding-left: 59px;
-  padding-top: 15px;
+  padding-left: 80px;
+  padding-top: 100px;
 }
 .responsive2{
-  padding-left: 59px;
+  padding-left: 80px;
   padding-top: 15px;
   padding-bottom: 90px;
 }
@@ -162,4 +162,3 @@ font-family: 'Gugi', cursive;
 color:white;
   font-size:25px;
 }
-
