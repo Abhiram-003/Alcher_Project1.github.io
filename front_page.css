@@ -1,14 +1,11 @@
 .background_color{
   background-color: #E6E1E1;
-  width: 100vw;
-  background-size: cover;
-
 }
 .one{
   background-image: url('bg.png');
-  /* display: inline-block; */
-  height: 603px;
-  width: 100vw;
+  display: inline-block;
+  height: 50%;
+  width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 0px;
@@ -48,29 +45,28 @@ input{
     font-size: 4.5vw;
     -webkit-text-stroke: 0.05em whitesmoke;
     -webkit-text-fill-color: transparent;
-    padding-top: 140px;
-    padding-left: 70px;
+    padding-top: 8%;
+    
 }
 .btn-success{
- padding-left: 15px;
+  
   cursor: pointer;
-  width: 300px;
-  height: 69px;
-  border-radius: 6px;
+  width: 20%;
+  padding: 1%;
+  border-radius: 8px;
   background: #FF00AA;
   border: 0;
 }
 .button{
   display: block;
-  padding-top: 40px;
-  padding-left: 550px;
+  padding-bottom: 8%;
+  padding-top: 5%;
 }
 #btn{
-
-  font-size: 21px;
+  font-size: 1.5vw;
   letter-spacing: 1px;
-  text-align: center;
-  padding-bottom: 10px;
+  position: relative;
+  left: 40%;
 }
 .btn-success:hover{
     background: #FF00AA;
@@ -79,18 +75,17 @@ input{
     display: none;
 }
 .hits{
-
-    padding-top: 50px;
-  /* padding-left: 140px; */
+  padding-top: 5%;
+  padding-left: 6%;
 }
 .hits2{
-  padding-top: 70px;
-  /* padding-left: 140px; */
+  padding-top: 5%;
+  padding-left: 6%;
 }
 div.gallery {
   border: 0px solid #ccc;
-  padding-left: 10px;
-  width: 270px;
+  padding-left: 2%;
+  width: 290px;
   display: inline-block;
   /*justify-content: space-evenly; */
 /* display: flex; */
@@ -118,14 +113,12 @@ div.desc {
   color: black;
 }
 .responsive{
-   /* padding-left: 80px; */
-  padding-top: 10px;
-    align-items: center;
+  padding-left: 59px;
+  padding-top: 15px;
 }
 .responsive2{
- /* padding-left: 80px; */
-    padding-top: 10px;
-  align-items: center;
+  padding-left: 59px;
+  padding-top: 15px;
   padding-bottom: 90px;
 }
 .fa{
@@ -159,13 +152,11 @@ h4{
   background-color: #3B3737;
   padding: 20px;
   text-align: center;
-  width: 100vw;
-  background-size: cover;
+
 }
-.lastline{
-font-family: 'Gugi', cursive;
-}
-.copyright{
-color:white;
-  font-size:25px;
-}
+
+
+
+
+/*media queries*/
+
